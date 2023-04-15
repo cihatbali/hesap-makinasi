@@ -58,6 +58,16 @@ button {
     padding:20px;
 }
 
+.foot {
+    font-size:12px;
+    float:right;
+}
+
+footer a {
+    color:#fff;
+    text-decoration:none;
+}
+
 @keyframes big {
     0% {
         font-size: 10px;
