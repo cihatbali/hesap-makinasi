@@ -1,2 +1,2 @@
 # hesap-makinasi
-https://github.com/cihatbali/hesap-makinasi.git
+ https://cihatbali.github.io/hesap-makinasi/
